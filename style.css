@@ -1,6 +1,6 @@
 main {
   display: flex; 
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
 }
 
 header {
@@ -14,7 +14,8 @@ section {
   flex-direction: column; 
   align-items: center; 
   justify-content: center;
-  width: 100vw; 
+  width: 100vw;
+  height: 85vh;
 }
 
 .articles {
